@@ -1,0 +1,12 @@
+{
+  "name": "orm",
+  "version": "1.0.0",
+  "description": "pacotes da orm bahiana que foi feita por matogrosso",
+  "main": "orm.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Joao_cr01",
+  "license": "ISC"
+}
